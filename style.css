@@ -31,7 +31,7 @@ a{
 .ring i {
   position: absolute;
   inset: 0;
-  border: 5px solid red;
+  border: 2px solid red;
   transition: 0.5s;
 }
 .ring i:nth-child(1) {
